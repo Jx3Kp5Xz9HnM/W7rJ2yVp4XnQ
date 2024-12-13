@@ -1,1 +1,1 @@
-# By downloading any of the following files in this repository you understand and you accept that you have the complete responsibility of your actions. I am not responsible of the way you use the following script(s) and files.
+# By downloading any of the following files in this repository you understand and you accept that you have the complete responsibility of your actions. I am not responsible for the way you use the following script(s) and files.
